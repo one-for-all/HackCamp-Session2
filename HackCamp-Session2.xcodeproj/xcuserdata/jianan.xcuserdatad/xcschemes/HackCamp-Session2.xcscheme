@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FBC5CDC81E8B347C002A7455"
-               BuildableName = "session2-demo.app"
-               BlueprintName = "session2-demo"
-               ReferencedContainer = "container:session2-demo.xcodeproj">
+               BuildableName = "HackCamp-Session2.app"
+               BlueprintName = "HackCamp-Session2"
+               ReferencedContainer = "container:HackCamp-Session2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FBC5CDC81E8B347C002A7455"
-            BuildableName = "session2-demo.app"
-            BlueprintName = "session2-demo"
-            ReferencedContainer = "container:session2-demo.xcodeproj">
+            BuildableName = "HackCamp-Session2.app"
+            BlueprintName = "HackCamp-Session2"
+            ReferencedContainer = "container:HackCamp-Session2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FBC5CDC81E8B347C002A7455"
-            BuildableName = "session2-demo.app"
-            BlueprintName = "session2-demo"
-            ReferencedContainer = "container:session2-demo.xcodeproj">
+            BuildableName = "HackCamp-Session2.app"
+            BlueprintName = "HackCamp-Session2"
+            ReferencedContainer = "container:HackCamp-Session2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FBC5CDC81E8B347C002A7455"
-            BuildableName = "session2-demo.app"
-            BlueprintName = "session2-demo"
-            ReferencedContainer = "container:session2-demo.xcodeproj">
+            BuildableName = "HackCamp-Session2.app"
+            BlueprintName = "HackCamp-Session2"
+            ReferencedContainer = "container:HackCamp-Session2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

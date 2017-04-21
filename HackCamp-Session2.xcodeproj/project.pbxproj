@@ -20,7 +20,7 @@
 		94638EFE1EA9AF38003A3CE2 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		948D37F71EA8563E007D9F2E /* UserTextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserTextViewController.swift; sourceTree = "<group>"; };
 		FB2522811E91E65200DCC770 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		FBC5CDC91E8B347C002A7455 /* session2-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "session2-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FBC5CDC91E8B347C002A7455 /* HackCamp-Session2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HackCamp-Session2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBC5CDCC1E8B347C002A7455 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FBC5CDD11E8B347D002A7455 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FBC5CDD31E8B347D002A7455 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		FBC5CDC01E8B347C002A7455 = {
 			isa = PBXGroup;
 			children = (
-				FBC5CDCB1E8B347C002A7455 /* session2-demo */,
+				FBC5CDCB1E8B347C002A7455 /* HackCamp-Session2 */,
 				FBC5CDCA1E8B347C002A7455 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		FBC5CDCA1E8B347C002A7455 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FBC5CDC91E8B347C002A7455 /* session2-demo.app */,
+				FBC5CDC91E8B347C002A7455 /* HackCamp-Session2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FBC5CDCB1E8B347C002A7455 /* session2-demo */ = {
+		FBC5CDCB1E8B347C002A7455 /* HackCamp-Session2 */ = {
 			isa = PBXGroup;
 			children = (
 				FBC5CDCC1E8B347C002A7455 /* AppDelegate.swift */,
@@ -67,15 +67,15 @@
 				FBC5CDD51E8B347D002A7455 /* LaunchScreen.storyboard */,
 				FBC5CDD81E8B347D002A7455 /* Info.plist */,
 			);
-			path = "session2-demo";
+			path = "HackCamp-Session2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FBC5CDC81E8B347C002A7455 /* session2-demo */ = {
+		FBC5CDC81E8B347C002A7455 /* HackCamp-Session2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FBC5CDDB1E8B347D002A7455 /* Build configuration list for PBXNativeTarget "session2-demo" */;
+			buildConfigurationList = FBC5CDDB1E8B347D002A7455 /* Build configuration list for PBXNativeTarget "HackCamp-Session2" */;
 			buildPhases = (
 				FBC5CDC51E8B347C002A7455 /* Sources */,
 				FBC5CDC61E8B347C002A7455 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "session2-demo";
+			name = "HackCamp-Session2";
 			productName = "session2-demo";
-			productReference = FBC5CDC91E8B347C002A7455 /* session2-demo.app */;
+			productReference = FBC5CDC91E8B347C002A7455 /* HackCamp-Session2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -106,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FBC5CDC41E8B347C002A7455 /* Build configuration list for PBXProject "session2-demo" */;
+			buildConfigurationList = FBC5CDC41E8B347C002A7455 /* Build configuration list for PBXProject "HackCamp-Session2" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -119,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FBC5CDC81E8B347C002A7455 /* session2-demo */,
+				FBC5CDC81E8B347C002A7455 /* HackCamp-Session2 */,
 			);
 		};
 /* End PBXProject section */
@@ -266,9 +266,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "session2-demo/Info.plist";
+				INFOPLIST_FILE = "HackCamp-Session2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shannonphu.session2-demo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shannonphu.HackCamp-Session2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -278,9 +278,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "session2-demo/Info.plist";
+				INFOPLIST_FILE = "HackCamp-Session2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shannonphu.session2-demo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shannonphu.HackCamp-Session2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -289,7 +289,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FBC5CDC41E8B347C002A7455 /* Build configuration list for PBXProject "session2-demo" */ = {
+		FBC5CDC41E8B347C002A7455 /* Build configuration list for PBXProject "HackCamp-Session2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FBC5CDD91E8B347D002A7455 /* Debug */,
@@ -298,7 +298,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FBC5CDDB1E8B347D002A7455 /* Build configuration list for PBXNativeTarget "session2-demo" */ = {
+		FBC5CDDB1E8B347D002A7455 /* Build configuration list for PBXNativeTarget "HackCamp-Session2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FBC5CDDC1E8B347D002A7455 /* Debug */,

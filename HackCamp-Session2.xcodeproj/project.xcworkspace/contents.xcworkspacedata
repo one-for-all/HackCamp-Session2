@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:session2-demo.xcodeproj">
+      location = "self:/Users/jianan/Developer/Hack-UCLA/HackCamp-Session2/HackCamp-Session2.xcodeproj">
    </FileRef>
 </Workspace>
